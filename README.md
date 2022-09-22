@@ -6,7 +6,7 @@ I'm a senior in Computer Science practicing my craft as a programmer, in hopes t
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/voandrew98/custom-icon-badges -->
 <!-- View counter - https://github.com/voandrew98/Simple-View-Counter -->
-<p align="center">
+<p align="left">
   <a href="https://github.com/voandrew98?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/voandrew98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/voandrew98?tab=followers">
