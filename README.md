@@ -1,5 +1,5 @@
 # 🌱 voandrew98
-**'(Digital Craftsman(Engineer/Developer)'**
+**(Digital Craftsman(Studnet/Engineer/Developer)**
 
 I'm a senior in Computer Science practicing my craft as a programmer, in hopes to make a positive impact in the digital world. Coding projects were inspired and built from the ground up. From planning and designing to solving real life problems with code. 
 
