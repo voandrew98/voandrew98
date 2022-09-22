@@ -32,7 +32,7 @@ I'm a senior majoring in Computer Science practicing my craft as a programmer, i
 
 ### 📊 Stats
 
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=voandrew98&show_icons=true&theme=moltack)
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=voandrew98&show_icons=true&theme=vue-dark)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=voandrew98&theme=gruvbox&border_radius=4.5) -->
 
