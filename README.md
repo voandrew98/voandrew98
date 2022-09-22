@@ -31,5 +31,6 @@ I'm a senior majoring in Computer Science practicing my craft as a programmer, i
 #
 
 ### 📊 Stats
-|<a href="https://github.com/voandrew98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=voandrew98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andrew's github stats" /></a> | <a href="https://github.com/voandrew98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voandrew98&layout=compact&theme=buefy&hide_border=true" /></a>|
+| <a href="https://github.com/voandrew98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=voandrew98&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andrew's github stats" /></a> | <a href="https://github.com/voandrew98/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voandrew98&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 #  
