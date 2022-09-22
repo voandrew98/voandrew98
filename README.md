@@ -2,12 +2,11 @@
 **'(Digital Craftsman(Engineer/Developer)'**
 
 I'm a senior in Computer Science practicing my craft as a programmer, in hopes to make a positive impact in the digital world. Coding projects were inspired and built from the ground up. From planning and designing to solving real life problems with code. 
-Here are some ideas to get you started:
 
 <!-- Social badges section -->
 <!-- Badges with custom icons - https://github.com/voandrew98/custom-icon-badges -->
 <!-- View counter - https://github.com/voandrew98/Simple-View-Counter -->
-<p align="left">
+<p align="center">
   <a href="https://github.com/voandrew98?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/voandrew98?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
   <a href="https://github.com/voandrew98?tab=followers">
