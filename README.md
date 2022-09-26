@@ -1,5 +1,5 @@
 # 🐾 Andrew Castro
-**`Computer Scientist (Student/Engineer/Developer)`**
+**`Computer Scientist (Student/Engineer/Mentor)`**
 
 A senior majoring in Computer Science dedicated in learning and practicing my craft as a programmer, in hopes to make a positive impact in the digital world. Coding projects were inspired, collaborated, and built from the ground up. From planning and designing to solving real life problems with code. Check out my projects and follow me on my exciting journey!  
 
